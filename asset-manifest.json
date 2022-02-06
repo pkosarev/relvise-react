@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/relvise-react/static/css/main.52ceaf3c.css",
+    "main.js": "/relvise-react/static/js/main.a04dce78.js",
+    "static/media/cover.jpg": "/relvise-react/static/media/cover.f26f89cee7e1240c8e35.jpg",
+    "static/media/02.jpg": "/relvise-react/static/media/02.31875dc461a257ab1c71.jpg",
+    "static/media/01.jpg": "/relvise-react/static/media/01.e6b2a0b8089bbdc1a433.jpg",
+    "static/media/03.jpg": "/relvise-react/static/media/03.f9d39c758d3104efa219.jpg",
+    "static/media/04.jpg": "/relvise-react/static/media/04.bc5cd993418ab63d4eea.jpg",
+    "static/media/01.svg": "/relvise-react/static/media/01.3d75534d9dbb8dae4fdf4f6a66370644.svg",
+    "static/media/02.svg": "/relvise-react/static/media/02.a97acd02c6db1af2a3f388e7146627e9.svg",
+    "static/media/03.svg": "/relvise-react/static/media/03.85dc38d381eefc99b1a94840d3265185.svg",
+    "static/media/04.svg": "/relvise-react/static/media/04.7444d4163bffe8c4cbf7639abdad26f8.svg",
+    "index.html": "/relvise-react/index.html",
+    "main.52ceaf3c.css.map": "/relvise-react/static/css/main.52ceaf3c.css.map",
+    "main.a04dce78.js.map": "/relvise-react/static/js/main.a04dce78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52ceaf3c.css",
+    "static/js/main.a04dce78.js"
+  ]
+}
